@@ -1,5 +1,5 @@
 class Request {
-  constructor(url,method) {
+  constructor(url, method) {
     this.url = url
     this.method = method
     this.response = null
